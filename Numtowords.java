@@ -1,4 +1,8 @@
-public class Convo {
+"Write a java code fragment that takes words for the first 100 numbers and convert the numbers into a single long integer.
+"For the conversion, use switch and for the words, use command-line arguments.
+
+	public class Convo {
+
 
 	 public static void main(String[] args) {
 
