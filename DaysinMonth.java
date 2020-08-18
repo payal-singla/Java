@@ -1,3 +1,7 @@
+"Write java code that takes two arguments, a month and a year and display the number of days in that month. E.g Feb 2020 = 29 days, Feb 2021 =28 days.
+"Use the switch statement count the days in a month. E.g Number of days are 31 for Jan, March etc 30 for April, June etc.
+"Feb is more complicated, so, use 4 and 400 to divide the year evenly and not evenly divided by 100.
+
 import java.util.Scanner;
 
 
