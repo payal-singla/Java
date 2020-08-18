@@ -1,3 +1,4 @@
+"Write code fragments to distinguish between For loop, while and do loops.
 public class Loop {
 	public static void main(String[] args) {
 
